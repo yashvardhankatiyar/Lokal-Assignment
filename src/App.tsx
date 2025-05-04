@@ -1,4 +1,4 @@
-// App.jsx
+
 import 'react-native-gesture-handler';
 import React from 'react';
 import { SafeAreaView, StyleSheet } from 'react-native';
